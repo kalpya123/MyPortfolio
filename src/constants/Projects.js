@@ -3,9 +3,14 @@ export const projects = {
     quote: "Ahh, Learning alone is boring, implementation is the real fun",
     projectList: [
         {
+         name:"Mern Exercise Tracker",
+         description:"Mern Exercise Tracker where user can add exercises and update and delete and can view exercises technologies used:-mongodb expressjs reactjs nodejs",
+         link:"github.com/kalpya123/mern-exercise-tracker",
+        },
+        {
             name: "Company Management System",
-            description: "The Company Management System where employee can login/signup and apply jobs in company and admin can see who applied jobs in company and which role and then contact them easily also after employee join in a company admin can add employee data in database and Update employee (such as salary) and delete employee  technologies used :- jdbc servlet jsp and mysql html css",
-            link: "https://github.com/kalpya123/CompanyManagementSystem"
+            description: "The Company Management System where employee can login/signup and apply jobs in company and admin can see who applied jobs in company admin can add employee data in database and Update employee and delete employee  technologies used :- jdbc servlet jsp and mysql html css",
+            link: "github.com/kalpya123/CompanyManagementSystem"
         }, {
             name: "Weather Application",
             description: "made a live weather application it will show you current weather using API of mapbox.com and api.weatherstack.com using nodejs and hbs",
@@ -13,7 +18,7 @@ export const projects = {
         }, {
             name: "Meme Generator",
             description: "MemeGenerator using React.js you can add text on img and create memes it will  fetch Api from https://api.imgflip.com/get_memes technologies used:-Reactjs",
-            link: "https://github.com/kalpya123/MemeGenerator"
+            link: "github.com/kalpya123/MemeGenerator"
         }, {
             name: "Chat App",
             description: "Chat App using node.js and web socket",
@@ -21,7 +26,7 @@ export const projects = {
         }, {
             name: "Movie Search App",
             description: "React movie search app search your favorite movies and get rating and details it will fetch data from https://api.themoviedb.org technologies used:-Reactjs",
-            link: "https://github.com/kalpya123/Reactmovie_search"
+            link: "github.com/kalpya123/Reactmovie_search"
         }, {
             name: "Github explorer",
             description: "Find  Github user and Repositories easily technologies used:-Reactjs",
@@ -29,7 +34,7 @@ export const projects = {
         }, {
             name: "To-Do",
             description: "TO-Do list create list of To Do technologies used:-Reactjs",
-            link: "https://github.com/kalpya123/To-DO"
+            link: "github.com/kalpya123/To-DO"
         }
     ]
 }

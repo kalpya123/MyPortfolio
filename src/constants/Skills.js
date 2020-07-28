@@ -25,7 +25,7 @@ export const skills = {
         "Backend",
         "Design",
         "Web",
-        "Android"
+        "Databases"
     ],
     interpersonalSkills: [
         "Communication",
